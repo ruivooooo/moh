@@ -1,0 +1,41 @@
+
+
+body{
+    background-color: black;
+    /* background-image: url("c:\Users\H\Downloads\beauty-of-nature-24.jpg"); */
+}
+
+h1 {
+    font-style: normal;
+    font-size: large;
+    align-items: center;
+    color: white;
+}
+h2 {
+    font-style: normal;
+    font-size: medium;
+    color: green;
+}
+h3{
+    font-style: normal;
+    font-size: small;
+    color: white;
+}
+.container {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.container2{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+}
